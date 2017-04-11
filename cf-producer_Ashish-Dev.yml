@@ -1,0 +1,2 @@
+log:
+  level: DEBUG # <----Change to INFO
