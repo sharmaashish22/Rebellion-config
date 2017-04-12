@@ -1,5 +1,3 @@
-log:
-  level: DEBUG # <----Change to INFO
 security:
   basic:
     enabled: false # turn of securing our application endpoints
