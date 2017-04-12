@@ -15,4 +15,4 @@ quoteServiceURL: http://quote-service-dev.cfapps.io/quote
 
 
 logging:
-  level.: DEBUG # <----Change to DEBUG
+  level.: INFO # <----Change to DEBUG
