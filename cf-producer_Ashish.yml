@@ -11,7 +11,5 @@ greeting:
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
 
-
 logging:
   level.: INFO # <----Change to INFO
-
